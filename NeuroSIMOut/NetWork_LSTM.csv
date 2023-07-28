@@ -1,0 +1,5 @@
+layer,speedup row,speedup col,read latency(ns),write latency(ns),ADC(ns),Accumulation(ns),Synaptic Array(ns),Buffer(ns),Interconnect(ns),DRAM(ns),ADC write(ns),Accumulation write(ns),Synaptic Array write(ns),Buffer write(ns),Interconnect write(ns),DRAM write(ns)
+1,3,1,889880,1.77293e+07,298667,14331.7,28597.8,540189,8094.62,0.263158,0,0,1.7628e+07,46608.6,54518.6,168.421
+2,1,1,1.63162e+06,3.51795e+07,896000,79328.3,77459.4,568158,10677.6,0.263158,0,0,3.49348e+07,77056,167312,252.632
+3,3,12,70450.4,7.99517e+06,24888.9,1194.31,2046.4,37123.1,5197.39,0.263158,0,0,7.97737e+06,9689.57,8112.69,0.421053
+total,9,12,1.63162e+06,6.09039e+07,896000,79328.3,77459.4,568158,10677.6,0.789474,0,0,6.05402e+07,133354,229943,421.474
